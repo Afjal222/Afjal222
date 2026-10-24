@@ -5,10 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afjal222" alt="afjal222" /></a> </p>
 
+- 🔭 I’m currently working on **Prasang**
+
+- 💬 Ask me about **Full Stack Dev**
+
+- 📫 How to reach me **afjalahammad29@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@afjal_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afjal_29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afjal-ahammad-5ab130375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjal-ahammad-5ab130375" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afjal-ahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjal-ahammad" height="30" width="40" /></a>
 <a href="https://fb.com/neloy.yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neloy.yt" height="30" width="40" /></a>
 <a href="https://instagram.com/afjal_ahammad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afjal_ahammad09" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/TR3WJU6z2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/TR3WJU6z2" height="30" width="40" /></a>
@@ -20,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afjal222&show_icons=true&locale=en&layout=compact" alt="afjal222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afjal222&show_icons=true&locale=en" alt="afjal222" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afjal222&" alt="afjal222" /></p>
